@@ -1,16 +1,54 @@
-## Hi there 👋
+# Adarsh Prasad
 
-<!--
-**adarshprasad420/adarshprasad420** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI/ML Engineer with experience building production ready Agentic AI, Generative AI, Computer Vision, and Machine Learning applications. Interested in large language models, retrieval augmented generation, multimodal AI, and scalable AI systems.
 
-Here are some ideas to get you started:
+## Current Focus
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Agentic AI Systems
+- Large Language Models
+- Retrieval-Augmented Generation (RAG)
+- Computer Vision
+- Multimodal AI
+- MLOps and AI Deployment
+
+## Technical Skills
+
+**Languages**
+
+Python, SQL, C++
+
+**Machine Learning**
+
+PyTorch, TensorFlow, Scikit-learn, Pandas, NumPy
+
+**Large Language Models**
+
+OpenAI, Claude, Gemini, LangChain, Vector Databases, RAG
+
+**Computer Vision**
+
+YOLOv8, OpenCV, SAM, SegFormer, MedSAM
+
+**Backend**
+
+FastAPI, Flask
+
+**Cloud & DevOps**
+
+AWS, Docker, Git, Linux
+
+## Selected Projects
+
+This profile contains projects related to:
+
+- Agentic AI
+- Computer Vision
+- Generative AI
+- Machine Learning
+- Data Science
+- Data Structures & Algorithms
+
+## Contact
+
+LinkedIn: https://www.linkedin.com/in/adarsh-prasad-78556a203/
+Email: adarshprasad9050@gmail.com
